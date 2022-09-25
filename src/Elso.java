@@ -3,6 +3,7 @@ public class Elso {
     {
         System.out.println("Hello");
         System.out.println("Hello ketto");
+        System.out.println("hehe");
     }
 }
 
